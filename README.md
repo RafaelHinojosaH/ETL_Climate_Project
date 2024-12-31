@@ -23,5 +23,5 @@ Este proyecto implementa un pipeline ETL (Extract, Transform, Load) para extraer
 ## Instalación
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/etl-pipeline-basica.git
+   git clone https://github.com/RafaelHinojosaH/ETL_Climate_Project.git
    cd etl-pipeline-basica
